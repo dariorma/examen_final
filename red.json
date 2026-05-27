@@ -1,0 +1,57 @@
+[
+  {
+    "origen": "A",
+    "destino": "B",
+    "minutos": 5
+  },
+  {
+    "origen": "A",
+    "destino": "C",
+    "minutos": 10
+  },
+  {
+    "origen": "B",
+    "destino": "D",
+    "minutos": 3
+  },
+  {
+    "origen": "C",
+    "destino": "D",
+    "minutos": 2
+  },
+  {
+    "origen": "D",
+    "destino": "E",
+    "minutos": 4
+  },
+  {
+    "origen": "E",
+    "destino": "F",
+    "minutos": 6
+  },
+  {
+    "origen": "B",
+    "destino": "F",
+    "minutos": 8
+  },
+  {
+    "origen": "C",
+    "destino": "G",
+    "minutos": 12
+  },
+  {
+    "origen": "G",
+    "destino": "H",
+    "minutos": 5
+  },
+  {
+    "origen": "X",
+    "destino": "Y",
+    "minutos": 7
+  },
+  {
+    "origen": "Y",
+    "destino": "Z",
+    "minutos": 3
+  }
+]

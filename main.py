@@ -397,7 +397,7 @@ def menu():
         print("3. Añadir conexión")
         print("4. Ver red de paradas como grafo")
         print("5. Ruta más rápida entre 2 estaciones")
-        print("6. Conexión entre dos estaciones")
+        print("6. Estan conectadas estas dos estaciones?")
         print("7. Ver estación HUB")
         print("8. Guardar en JSON")
         print("9. Salir")

@@ -392,12 +392,12 @@ def menu():
     while True:
 
         print("\n========= MENÚ =========")
-        print("1. Cargar red desde JSON")
+        print("1. Cargar red desde archivo JSON")
         print("2. Añadir estación")
         print("3. Añadir conexión")
-        print("4. Ver red como grafo")
-        print("5. Ruta más rápida")
-        print("6. Ver conexión entre estaciones")
+        print("4. Ver red de paradas como grafo")
+        print("5. Ruta más rápida entre 2 estaciones")
+        print("6. Están conectadas estas estaciones?")
         print("7. Ver estación HUB")
         print("8. Guardar en JSON")
         print("9. Salir")
